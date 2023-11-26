@@ -1,5 +1,14 @@
 # postgresql
 
+## Enter Databse CLI
+
+```postgresql
+psql postgres
+# or
+psql databseNm
+```
+
+
 ## Show Databases
 
 ```postgresql
