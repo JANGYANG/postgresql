@@ -32,3 +32,9 @@ psql databseNm
 ```postgresql
 \d table_name
 ```
+
+## Drop Database
+
+```postgresql
+DROP DATABASE databaseName
+```
